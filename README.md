@@ -6,3 +6,4 @@
 * https://www.kdnuggets.com/2018/03/text-data-preprocessing-walkthrough-python.html
 # Projects
 * https://github.com/MarvinBertin/Deep-NLP-Project
+* https://github.com/PythonWorkshop/intro-to-nlp-with-pytorch
